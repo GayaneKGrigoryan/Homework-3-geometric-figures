@@ -25,7 +25,7 @@
     border: 2px solid rebeccapurple;    
 }
 
-.Triangle-Up {
+.triangle-Up {
     height: 0px;
     width: 0px;
     border-left: 45px solid transparent;
@@ -33,7 +33,7 @@
     border-bottom: 50px solid rebeccapurple;
 }
 
-.Trapezoid {
+.trapezoid {
     border-bottom: 50px solid rebeccapurple;
     border-left: 30px solid transparent;
     border-right:30px solid transparent;
@@ -41,7 +41,7 @@
     width: 50px;
 }
 
-.Parallelogram {
+.parallelogram {
     width: 70px;
     height: 50px;
     transform: skewX(-30deg);
