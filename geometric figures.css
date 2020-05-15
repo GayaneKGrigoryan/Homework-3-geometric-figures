@@ -1,0 +1,50 @@
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: rebeccapurple;
+}
+
+.rectangle {
+    height: 50px;
+    width: 100px;
+    background-color: rebeccapurple;
+    
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: rebeccapurple;
+}
+
+.round {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    border: 2px solid rebeccapurple;    
+}
+
+.Triangle-Up {
+    height: 0px;
+    width: 0px;
+    border-left: 45px solid transparent;
+    border-right:45px solid transparent;
+    border-bottom: 50px solid rebeccapurple;
+}
+
+.Trapezoid {
+    border-bottom: 50px solid rebeccapurple;
+    border-left: 30px solid transparent;
+    border-right:30px solid transparent;
+    height: 0px;
+    width: 50px;
+}
+
+.Parallelogram {
+    width: 70px;
+    height: 50px;
+    transform: skewX(-30deg);
+    margin-left: 15px;
+    background-color: rebeccapurple;
+}
